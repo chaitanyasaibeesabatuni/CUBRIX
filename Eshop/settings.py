@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-se9wk&*9!%4nk^oejid9t(0=mp*6(h78d)utzny-2g_)*ou!11
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['cubrix.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['https://cubrix.herokuapp.com/','127.0.0.1']
 
 
 # Application definition
